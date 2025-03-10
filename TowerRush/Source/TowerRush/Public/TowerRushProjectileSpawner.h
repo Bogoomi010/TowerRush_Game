@@ -7,8 +7,8 @@
 UCLASS()
 class TOWERRUSH_API ATowerRushProjectileSpawner : public AActor
 {
-	GENERATED_BODY()
-	
+    GENERATED_BODY()
+
 public:
     ATowerRushProjectileSpawner();
 
@@ -21,9 +21,25 @@ protected:
     /** 타이머 핸들 */
     FTimerHandle SpawnTimerHandle;
 
-public:
-    virtual void Tick(float DeltaTime) override;
+    /** 감지 범위 */
+    UPROPERTY(VisibleAnywhere, Category = "Detection")
+    class USphereComponent* DetectionSphere;
 
+    /** 감지된 타겟 */
+    AActor* TargetActor;
+
+    /** 감지 이벤트 */
+    UFUNCTION()
+    void OnTargetDetected(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor,
+        UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+
+    /** 감지된 대상이 범위를 벗어날 때 호출되는 함수 */
+    UFUNCTION()
+    void OnTargetLost(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor,
+        UPrimitiveComponent* OtherComp, int32 OtherBodyIndex);
+
+public:
+    
     /** 생성할 투사체 클래스 */
     UPROPERTY(EditAnywhere, Category = "Spawner")
     TSubclassOf<class ATowerRushProjectileBase> ProjectileClass;
