@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\commonstartuploadingscreen\\module.commonstartuploadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\study\\towerrush_game\\towerrush\\intermediate\\build\\win64\\x64\\towerrusheditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\commonstartuploadingscreen\\definitions.commonstartuploadingscreen.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenbase.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreen.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analyticset\\public\\ianalyticsprovideret.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analyticset\\public\\analyticset.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsproviderconfigurationdelegate.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovidermodule.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticseventattribute.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsconversion.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovider.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonstartuploadingscreen.cpp",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenmanager.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\svirtualwindow.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\tickableobjectrenderthread.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\preloadscreen\\public\\preloadslatethreading.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

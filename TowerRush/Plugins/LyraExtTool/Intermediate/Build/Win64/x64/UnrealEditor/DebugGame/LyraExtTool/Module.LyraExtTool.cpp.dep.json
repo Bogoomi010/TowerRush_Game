@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\lyraexttool\\module.lyraexttool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\study\\towerrush_game\\towerrush\\intermediate\\build\\win64\\x64\\towerrusheditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\lyraexttool\\definitions.lyraexttool.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\lyraexttool.init.gen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\source\\lyraexttool\\private\\bpfunctionlibrary.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\source\\lyraexttool\\public\\bpfunctionlibrary.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.gen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\source\\lyraexttool\\private\\lyraexttool.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\lyraexttool\\source\\lyraexttool\\public\\lyraexttool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

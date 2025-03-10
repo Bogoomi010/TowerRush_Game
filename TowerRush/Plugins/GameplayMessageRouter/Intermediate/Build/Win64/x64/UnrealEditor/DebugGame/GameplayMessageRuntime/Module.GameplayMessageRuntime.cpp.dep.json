@@ -1,0 +1,33 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\gameplaymessageruntime\\module.gameplaymessageruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\study\\towerrush_game\\towerrush\\intermediate\\build\\win64\\x64\\towerrusheditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.novalfmtstr.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\gameplaymessageruntime\\definitions.gameplaymessageruntime.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessageruntime.init.gen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagetypes2.gen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagetypes2.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagetypes2.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\asyncaction_listenforgameplaymessage.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\asyncaction_listenforgameplaymessage.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\cancellableasyncaction.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "d:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cancellableasyncaction.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\public\\gameframework\\gameplaymessagesubsystem.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagesubsystem.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\asyncaction_listenforgameplaymessage.generated.h",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\asyncaction_listenforgameplaymessage.gen.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\gameplaymessageruntime.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\source\\gameplaymessageruntime\\private\\gameframework\\gameplaymessagesubsystem.cpp",
+            "d:\\study\\towerrush_game\\towerrush\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessagesubsystem.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

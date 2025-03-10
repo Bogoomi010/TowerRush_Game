@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"CommonLoadingScreen": "UnrealEditor-CommonLoadingScreen-Win64-DebugGame.dll",
+		"CommonStartupLoadingScreen": "UnrealEditor-CommonStartupLoadingScreen-Win64-DebugGame.dll"
+	}
+}

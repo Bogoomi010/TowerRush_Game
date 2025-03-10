@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModularGameplayActors-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Study\TowerRush_Game\TowerRush\Intermediate\Build\Win64\x64\TowerRushEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\ModularGameplayActors\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ModularGameplayActors\Module.ModularGameplayActors.cpp.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\ModularGameplayActors\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ModularGameplayActors\Default.rc2.res"
+/OUT:"D:\Study\TowerRush_Game\TowerRush\Plugins\ModularGameplayActors\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\ModularGameplayActors\UnrealEditor-ModularGameplayActors-Win64-DebugGame.lib"

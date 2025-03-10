@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameplayMessageNodes-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Study\TowerRush_Game\TowerRush\Intermediate\Build\Win64\x64\TowerRushEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\GameplayMessageNodes\Module.GameplayMessageNodes.cpp.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\GameplayMessageNodes\Default.rc2.res"
+/OUT:"D:\Study\TowerRush_Game\TowerRush\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\GameplayMessageNodes\UnrealEditor-GameplayMessageNodes-Win64-DebugGame.lib"

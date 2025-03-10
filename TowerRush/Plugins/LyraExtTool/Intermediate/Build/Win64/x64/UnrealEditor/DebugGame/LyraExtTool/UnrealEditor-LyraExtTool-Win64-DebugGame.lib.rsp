@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LyraExtTool-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Study\TowerRush_Game\TowerRush\Intermediate\Build\Win64\x64\TowerRushEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.NoValFmtStr.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LyraExtTool\Module.LyraExtTool.cpp.obj"
+"D:\Study\TowerRush_Game\TowerRush\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LyraExtTool\Default.rc2.res"
+/OUT:"D:\Study\TowerRush_Game\TowerRush\Plugins\LyraExtTool\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\LyraExtTool\UnrealEditor-LyraExtTool-Win64-DebugGame.lib"

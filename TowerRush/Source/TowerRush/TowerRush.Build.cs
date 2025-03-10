@@ -8,6 +8,31 @@ public class TowerRush : ModuleRules
     {
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "GameplayAbilities", "GameplayTags", "GameplayTasks" });
+        PublicIncludePaths.AddRange(
+            new string[] {
+                "TowerRush"
+            }
+        );
+
+        PrivateIncludePaths.AddRange(
+            new string[] {
+            }
+        );
+
+        PublicDependencyModuleNames.AddRange(new string[] {
+            "Core",
+            "CoreUObject",
+            "Engine",
+            "InputCore",
+            "EnhancedInput",
+            "GameplayAbilities",
+            "GameplayTags",
+            "GameplayTasks",
+        });
+
+        PrivateDependencyModuleNames.AddRange(new string[] {
+                "GameplayMessageRuntime",
+            }
+        );
     }
 }
