@@ -21,7 +21,16 @@ Steam의 [Alt+F4](https://store.steampowered.com/app/1307550/AltF4/) 게임에�
 - 에픽게임즈 마켓플레이스 에셋 활용
 
 ## 📁 프로젝트 구조
-TowerRush_Game/ ├── TowerRush/ # Unreal Engine 프로젝트 폴더 ├── .gitattributes ├── .gitignore
+TowerRush_Game/
+└── TowerRush/
+    ├── Config/             # 설정 파일 (Input, Game, Editor 등)
+    ├── Content/            # 에셋 (레벨, 메시, 사운드 등)
+    ├── Plugins/            # 추가 플러그인 (없으면 비어있을 수도 있음)
+    ├── Source/             # C++ 소스코드 (게임 로직)
+    ├── .vsconfig           # Visual Studio 구성 파일
+    ├── TowerRush.sln       # Visual Studio 솔루션 파일
+    └── TowerRush.uproject  # 언리얼 프로젝트 파일
+
 
 ## 🚧 개발 상태
 
