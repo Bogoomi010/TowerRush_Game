@@ -33,7 +33,9 @@ Steam의 [Alt+F4](https://store.steampowered.com/app/1307550/AltF4/) 게임에�
 
 ## 🧙‍♂️ 크레딧
 
-- 개발자: [Bogoomi010](https://github.com/Bogoomi010) 외 팀원
+- 개발자: [Bogoomi010](https://github.com/Bogoomi010)
+- 개발자: [HYEONe2](https://github.com/HYEONe2)
+- 개발자 :[jeongwoo1788029](https://github.com/jeongwoo1788029)
 - 참고 게임: Alt+F4, Getting Over It, Only Up!
 
 ## 📌 참고
