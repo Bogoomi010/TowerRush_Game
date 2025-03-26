@@ -21,4 +21,33 @@ Steam의 [Alt+F4](https://store.steampowered.com/app/1307550/AltF4/) 게임에�
 - 에픽게임즈 마켓플레이스 에셋 활용
 
 ## 📁 프로젝트 구조
+TowerRush_Game/ ├── TowerRush/ # Unreal Engine 프로젝트 폴더 ├── .gitattributes ├── .gitignore
 
+## 🚧 개발 상태
+
+- [x] 프로젝트 환경 설정 완료
+- [x] 캐릭터 물리 이동 구현
+- [x] 타워 및 투사체 베이스 클래스 구현
+- [ ] 기본 레벨 구성
+- [ ] 타워 공격 로직
+- [ ] Creep AI 이동 구현
+- [ ] UI, 사운드 등 연출 요소
+
+## 🧙‍♂️ 크레딧
+
+- 개발자: [Bogoomi010](https://github.com/Bogoomi010) 외 팀원
+- 참고 게임: Alt+F4, Getting Over It, Only Up!
+
+## 📌 참고
+
+- 에픽게임즈 마켓플레이스 에셋 일부 사용
+- 로컬 테스트 기준 개발 중이며, 최적화 작업은 추후 진행 예정
+
+---
+
+필요에 따라 아래 항목을 추가로 넣을 수 있습니다:
+
+- 설치 및 실행 방법 (개발자용)
+- 기여 가이드 (협업 시)
+- 트레일러 영상이나 스크린샷
+- 로드맵 (v1.0까지의 목표)
